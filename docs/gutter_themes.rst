@@ -21,24 +21,24 @@ Which gutter theme you use is a matter of taste. Below is a list of the built in
    Colorized icons are in fact mostly white; they are displayed here as they appear when drawn by SublimeLinter, tinted with the error or warning color. Creating the icons white allows the tint color to come through unchanged.
 
 
-.. |bar_e| image:: images/Bar/error.png
+.. |bar_e| image:: ../gutter-themes/Bar/error.png
     :width: 16
     :height: 16
-.. |bar_w| image:: images/Bar/warning.png
-    :width: 16
-    :height: 16
-
-.. |af_e| image:: images/Awesome/filled/error.png
-    :width: 16
-    :height: 16
-.. |af_w| image:: images/Awesome/filled/warning.png
+.. |bar_w| image:: ../gutter-themes/Bar/warning.png
     :width: 16
     :height: 16
 
-.. |ao_e| image:: images/Awesome/outline/error.png
+.. |af_e| image:: ../gutter-themes/Awesome/filled/error.png
     :width: 16
     :height: 16
-.. |ao_w| image:: images/Awesome/outline/warning.png
+.. |af_w| image:: ../gutter-themes/Awesome/filled/warning.png
+    :width: 16
+    :height: 16
+
+.. |ao_e| image:: ../gutter-themes/Awesome/outline/error.png
+    :width: 16
+    :height: 16
+.. |ao_w| image:: ../gutter-themes/Awesome/outline/warning.png
     :width: 16
     :height: 16
 
