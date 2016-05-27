@@ -21,6 +21,27 @@ Which gutter theme you use is a matter of taste. Below is a list of the built in
    Colorized icons are in fact mostly white; they are displayed here as they appear when drawn by SublimeLinter, tinted with the error or warning color. Creating the icons white allows the tint color to come through unchanged.
 
 
+.. |bar_e| image:: images/Bar/error.png
+    :width: 16
+    :height: 16
+.. |bar_w| image:: images/Bar/warning.png
+    :width: 16
+    :height: 16
+
+.. |af_e| image:: images/Awesome/filled/error.png
+    :width: 16
+    :height: 16
+.. |af_w| image:: images/Awesome/filled/warning.png
+    :width: 16
+    :height: 16
+
+.. |ao_e| image:: images/Awesome/outline/error.png
+    :width: 16
+    :height: 16
+.. |ao_w| image:: images/Awesome/outline/warning.png
+    :width: 16
+    :height: 16
+
 .. |bc_e| image:: images/Blueberry/cross/error.png
     :width: 16
     :height: 16
@@ -97,6 +118,9 @@ Which gutter theme you use is a matter of taste. Below is a list of the built in
 =================== ===================
 Name                Error/Warning
 =================== ===================
+Bar                 |bar_e| |s| |bar_w|
+Awesome - filled    |af_e| |s| |af_w|
+Awesome - outline   |ao_e| |s| |ao_w|
 Blueberry - cross   |bc_e| |s| |bc_w|
 Blueberry - round   |br_e| |s| |br_w|
 Circle              |cir_e| |s| |cir_w| |s| [colorized]
